@@ -21,3 +21,8 @@
 # Secure Messenger
 # Secret TXT Container
 
+# Support me!
+<img width="200" height="200" alt="539523197-bfcaad85-5099-4f3f-ae2c-acb4a02bc065" src="https://github.com/user-attachments/assets/1e02c4df-25bb-43ff-93d1-8c1334e34224" /> 
+
+<img width="200" height="200" alt="db0174b9-f670-453f-98ab-5e5d5074e95a" src="https://github.com/user-attachments/assets/feac24f9-9632-4e2d-b8ca-00d31b9f42d4" alt="Description" />
+
