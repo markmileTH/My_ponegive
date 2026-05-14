@@ -16,7 +16,6 @@
 <img width="1904" height="1014" alt="Screenshot 2026-05-14 234533" src="https://github.com/user-attachments/assets/d614e2a5-f847-4f69-8eb8-6b822b0f121c" />
 <img width="1882" height="993" alt="Screenshot 2026-05-14 234321" src="https://github.com/user-attachments/assets/7b729a1e-fb2c-4bd3-8f9a-618131949cc8" />
 
-# นี้คือโปรเจ็คเข้ารหัสข้อความ ให้เป็นนิทานหรือเรื่องราว
 # Encryption Tool
 # Secure Messenger
 # Secret TXT Container
